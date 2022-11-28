@@ -132,3 +132,17 @@ h2{
   padding:7% 15%;
   text-align: center;
 }
+
+#cta{
+  background-color: #ff4c68;
+  color: white;
+}
+
+.download-button-cta{
+  margin: 5% 3% 5% 0;
+}
+
+.cta-buttons{
+  margin-left: auto;
+  margin-right: auto;
+}
