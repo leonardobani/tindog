@@ -7,13 +7,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat';
 }
 
-h2 {
-  font-weight: bold;
-  font-size: 3rem;
-  line-height: 1.5;
-  text-align: center;
-}
-
 .container-fluid {
   padding: 3% 15% 7%;
 }
@@ -23,6 +16,13 @@ h2 {
   line-height: 2;
   color: white;
   font-weight: 900;
+}
+
+.section-h2{
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    text-align: center;
 }
 
 #title {
@@ -115,6 +115,13 @@ h2 {
   border-radius: 25%;
 }
 
+.testimonial-text{
+  font-weight: 700;
+  font-size: 3rem;
+  padding-bottom: 30px;
+  inline-size: ;
+}
+
 .carousel-item{
   padding: 7% 15%;
 }
@@ -132,6 +139,13 @@ h2 {
 
 #pricing{
   padding:7% 15%;
+  text-align: center;
+}
+
+.price-h{
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
   text-align: center;
 }
 
